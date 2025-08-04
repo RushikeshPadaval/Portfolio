@@ -10,30 +10,16 @@ const ExperienceList = [
             
         ]
     },
-    {
-        "title": "Front-end Developer",
-        "company": "Synexoo",
-        "startDate": "July 2024",
-        "endDate": "Present",
-        "location": "Remote",
-        "points": [
-            "Led a team of 4 developers and designers for Synexoo WebDev's website using Front-end Development",
-            "Currently i'm Developing the E-Commerce Website",
-            "And Improving my skills and knowledge in this field "
-
-        ]
-    },
+   
    
     {
         "title": "Web Developer",
-        "company": "CodSoft",
-        "startDate": "Jan 2024",
-        "endDate": "Feb 2024",
+        "company": "Suvidha Foundation",
+        "startDate": "Feb 2024",
+        "endDate": "Mar 2024",
         "location": "Remote",
         "points": [
-            "Completed the tasks that given by company",
-            "Worked on the fronted devlopment projects mainly ",
-            "I learned how to fetch api's and how to create responsive websites",
+            "Devloped a full stack job portal using MERN stack enabling userauthentication , job listing and application testing"
         
         ]
     },
