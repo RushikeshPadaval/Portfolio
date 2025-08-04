@@ -29,7 +29,7 @@ function Home() {
                 />
                 <div>
                     <IconContext.Provider value={{ className: "socialIcons" }}>
-                        <Link to='https://github.com/Rushi-Padaval' target="_blank">
+                        <Link to='https://github.com/RushikeshPadaval' target="_blank">
                             <FaGithub size='1em' />
                         </Link>
                         <Link to='https://www.linkedin.com/in/rushikesh-padaval-57681a254/' target="_blank">
