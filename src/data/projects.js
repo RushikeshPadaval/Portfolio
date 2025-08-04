@@ -1,38 +1,25 @@
 const ProjectList = [
     {
-        "title": "Weather Forecasting App",
-        "stack": "JavaScript , HTML, CSS ",
-        "desc": "THe Weathe Forecasting Web App is about showing the weather of the any city in the world",
-        "github": "https://github.com/Rushi-Padaval/weather-app",
-        "website": "https://weather-web-app-weld.vercel.app/"
+        "title": " Adaptive Automation of Workflow (Final Year PRoject)",
+        "stack": "Next.js , TypeScript ",
+        "desc": "This project introduces an innovative workflow management platform designed to streamline the task management process through automated task suggestions. Built using modern web technologies, the application leverages advanced AI to identify and recommend missing tasks and subtasks, thereby enhancing user productivity and task accuracy. ",
+        "github": "https://github.com/RushikeshPadaval/Adaptive-Automation-of-Workflow",
+        "website": "https://taskido-pearl.vercel.app/"
 
     },
     {
-        "title": "Gemini-Clone",
-        "stack": "React js, Java Script, HTML , CSS",
-        "desc": "Created a Gemini clone project that mimics dual-core processing for better multitasking and improved performance. Designed for efficient data handling and smooth operations..",
-        "github" : "https://github.com/Rushi-Padaval/Gemini-clone",
-        "website": "https://gemini-clone-psi-flame.vercel.app/"
+        "title": "JobPortal",
+        "stack": "MERN",
+        "desc": "Developed a full-stack job portal that allows companies to post job openings and applicants to view listings and apply. The platform includes user authentication for secure access, job categorization for easier navigation, and real-time application tracking for both employers and candidates. It also integrates Google Forms for application submission and tracks user activity for each job post to provide insights into engagement and application flow.",
+        "github" : "https://github.com/RushikeshPadaval/Job_Portal",
     },
     {
-        "title": "Image Searcher",
-        "stack": "HTML,CSS,JAVASCRIPT",
-        "desc": "It will search the image depends on the input and it will shows the infinite resultes.",
-        
-    "website": "https://imagesearcher-ashy.vercel.app/"
+        "title": "Book Store",
+        "stack": "MERN",
+        "desc": " Built a full-stack online bookstore with user authentication features including login/logout, and product listing with book details and pricing Implemented a clean UI for browsing books and managing user sessions in a simple, responsive layou",
+    
     },
-    // {
-    //     "title": "EloEdge",
-    //     "stack": "Python, pandas, R, ExpressJS, MongoDB, AWS (EC2)",
-    //     "desc": "ELO system for college football teams based on 2014-Current performance, projecting power rankings and win percentages.",
-    //     "website": "http://eloedge.s3-website-us-west-1.amazonaws.com/"
-    // },
-    // {
-    //     "title": "Graphical Sort",
-    //     "stack": "Java, Swing, AWT",
-    //     "desc": "Desktop applet that displays the functionality of several sorting algorithms with animated simulations.",
-    //     "github": "https://github.com/kevink856/GraphicalSort"
-    // }
+
 ];
 
 export default ProjectList;
