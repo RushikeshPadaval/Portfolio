@@ -4,11 +4,12 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import reportWebVitals from './reportWebVitals';
 import { createHashRouter, RouterProvider, Outlet } from "react-router-dom";
-
+import App from './App.js';
 // Import Components
 import BlogHome from './components/BlogHome.js';
 import LandingPage from './components/LandingPage.js';
 import Blog from './components/Blogs.js'
+import About from './components/About.js';
 
 // Create router to redirect by refreshing (HashRouting is not supported for GitHub Pages)
 const routes = [
@@ -20,6 +21,9 @@ const routes = [
     {
         path: "/blogs",
         element: <BlogHome />
+    },{
+    path:"/about",
+    element:<About/>
     },
     {
         path: "/blogs/pathtracer",

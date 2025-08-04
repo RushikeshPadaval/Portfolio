@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 import { TypeAnimation } from 'react-type-animation';
 import { IconContext } from 'react-icons';
 import { FaGithub, FaLinkedin, FaEnvelope, FaAngleDown } from 'react-icons/fa';
-import React, { useState } from 'react';
 
 
 
@@ -42,11 +41,12 @@ function Home() {
                     </IconContext.Provider>
                 </div>
             </div>
-            <div className='home-arrow'>
-                <a href='#About'>
-                    <FaAngleDown style={{ fontSize: '30px', color: 'black' }} />
-                </a>
-            </div>
+            {/* <div className='home-arrow'>
+                <Link to="/about">
+  <FaAngleDown style={{ fontSize: '30px', color: 'black' }} />
+</Link>
+
+            </div> */}
 		</div>
 	);
 }

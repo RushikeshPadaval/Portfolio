@@ -3,10 +3,10 @@ const ExperienceList = [
         "title": "Web Developer",
         "company": "CodeSpeedy Techology PVT LTD ",
         "startDate": "July 2024",
-        "endDate": "Present",
+        "endDate": "Sep 2024",
         "location": "Kolkatta, India",
         "points": [
-            "This internship will starts from 10th July ",
+            "Developed a web application that allows users to resize an image using React.js, HTML, CSS3 and Java Script. Created the Job Portal Application where an admin add thejobs using admin portal and job seeker apply to it fully functional website using MERN. Authored a detailed blog post documenting the development process, challenges faced, and solutions implemented for the above tasks, shared insights and best practices with the development community on the company portal",
             
         ]
     },
